@@ -137,7 +137,9 @@ function Podcasts() {
                             <Magnifier className="w-24 h-24"/>
                             <p className="font-semibold">No result found</p>
                             <p>We could not find anything that match with your search or selected filters.</p>
-                            <Button color="primary">Request podcast</Button>
+                            <Link to="/about/request">
+                                <Button color="primary">Request podcast</Button>
+                            </Link>
                             </div>
                         )
                     ): (
