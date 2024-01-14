@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://api.txtpods.org/v1/";
+const API_URL = import.meta.env.VITE_API_URL;
 
 const get = (id) => {
     return axios.get(API_URL + "podcasts/" + id);
