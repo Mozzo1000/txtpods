@@ -136,6 +136,9 @@ function PodcastDetails() {
                             }
                         </li>
                     ))}
+                    {content?.episodes.length < 1 &&
+                        <p>There are currently no episodes available for this podcast. Please check back later!</p>
+                    }
                 </ul>
             </div>
                 </Card>
