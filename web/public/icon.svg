@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.717941mm"
+   height="22.590164mm"
+   viewBox="0 0 26.717941 22.590164"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.6980481"
+     inkscape:cx="514.19582"
+     inkscape:cy="794.77601"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4"
+     transform="translate(-165.97423,-172.32414)">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.34206;stroke-linejoin:round;stroke-miterlimit:10000;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1358-3"
+       width="25.375881"
+       height="21.248083"
+       x="166.64526"
+       y="172.99518"
+       ry="3.1742249" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     transform="translate(-165.97423,-172.32414)">
+    <rect
+       style="opacity:1;fill:#fc7b53;fill-opacity:1;stroke:#000000;stroke-width:1.277;stroke-linejoin:round;stroke-miterlimit:10000;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1358"
+       width="24.145767"
+       height="20.218067"
+       x="166.61273"
+       y="172.96265"
+       ry="3.0203521" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.1283px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:-1.27529px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.291145;stroke-linejoin:round;stroke-miterlimit:10000;paint-order:fill markers stroke"
+       x="169.82698"
+       y="187.02744"
+       id="text2205"><tspan
+         sodipodi:role="line"
+         id="tspan2203"
+         style="stroke-width:0.291145"
+         x="169.82698"
+         y="187.02744"
+         dx="0"
+         dy="0">TXT</tspan></text>
+  </g>
+</svg>
