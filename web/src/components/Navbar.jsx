@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button, Navbar } from 'flowbite-react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from "react-router-dom";
 import Icon from '../icon.svg';
 import KofiButton from './KofiButton';
 import { useSidebarContext } from "../context/SidebarContext";
@@ -9,6 +9,7 @@ import { MdOutlineClose } from "react-icons/md";
 
 function NavigationMenu() {
     const { isOpenOnSmallScreens, isPageWithSidebar, setOpenOnSmallScreens } = useSidebarContext();
+    let location = useLocation();
 
     return (
         <Navbar className="bg-transparent">
